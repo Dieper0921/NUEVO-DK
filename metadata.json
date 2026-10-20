@@ -1,0 +1,6 @@
+{
+  "name": "DK Importaciones - Productos Exclusivos",
+  "description": "Tienda online de productos tecnológicos y accesorios importados exclusivos en Perú con atención directa vía WhatsApp al +51 975190577.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
